@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "nome": "Rinaldo Rossoni",
+        "cpf": "04993077807",
+        "email": "rinaldo.rossoni@gmail.com",
+        "whatsapp": "61992572214",
+        "endereco": {
+            "cep": "72010050",
+            "rua": "Qd C 5",
+            "numero": "0",
+            "complemento": "lote 6 apto 305",
+            "bairro": "Taguatinga Centro",
+            "cidade_uf": "Brasília/DF"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "nome": "João Lucass",
+        "cpf": "x49930778AA",
+        "email": "joao.lucass@gmail.com",
+        "whatsapp": "61992572214",
+        "endereco": {
+            "cep": "72010050",
+            "rua": "Qd C 5",
+            "numero": "0",
+            "complemento": "lote 6 apto 305",
+            "bairro": "Taguatinga Centro",
+            "cidade_uf": "Brasília/DF"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+        "email_inv": {
+            "nome": "Rinaldo Rossoni",
+            "cpf": "04993077807",
+            "email": "rinaldo.rossoni.gmail.com",
+            "whatsapp": "61992572214",
+            "endereco": {
+                "cep": "72010050",
+                "rua": "Qd C 5",
+                "numero": "0",
+                "complemento": "lote 6 apto 305",
+                "bairro": "Taguatinga Centro",
+                "cidade_uf": "Brasília/DF"
+            },
+            "metodo_entrega": "Moto",
+            "cnh": "cnh-digital.jpg"
+        }
+}
